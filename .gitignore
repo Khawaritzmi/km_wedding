@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.tools/
+test-results/
+data/guests.csv
+data/guests-seed.sql
+data/*.xlsx
+data/*links*.csv
+.env
+.env.*
+!.env.example
